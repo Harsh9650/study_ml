@@ -1,7 +1,7 @@
 # Notebook Order & Guide
 
 This folder contains a small pipeline of notebooks. Run them **in order** from 1 → 5. Python file 
-`hepler_functions.py` contains the helper functions used along the project.
+`helper_functions.py` contains the helper functions used along the project.
 
 > Filenames below are linked exactly as they exist (spelling preserved).
 
