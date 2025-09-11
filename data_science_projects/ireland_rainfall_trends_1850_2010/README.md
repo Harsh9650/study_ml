@@ -13,9 +13,9 @@ This project analyses long-term rainfall records from 25 stations across Ireland
 - Related article: https://mural.maynoothuniversity.ie/id/eprint/8729/
 
 ## Outputs
-- Summary tables of rainfall extremes
-- Reproducible seasonal trend visualisations
-- Spatial plots of average and extreme rainfall
+- Summary tables of rainfall extremes.
+- Reproducible seasonal trend visualisations.
+- Heat map of total rainfall throughout the years.
 
 ## Author
 Harish Sharma (Maynooth University)
