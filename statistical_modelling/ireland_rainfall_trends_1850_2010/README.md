@@ -1,4 +1,4 @@
-# Rainfall Extremes in Ireland (1850–2010)
+# Rainfall Trend Analysis in Ireland (1850–2010)
 
 This project analyses long-term rainfall records from 25 stations across Ireland, focusing on seasonal trends and extreme events. Using Python, Pandas, GeoPandas, and open datasets, it reproduces historical patterns and highlights hydrological anomalies relevant to climate research.
 
