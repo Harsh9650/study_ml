@@ -24,8 +24,14 @@ This repo is primarily for my own learning journey, but it may also serve as a r
 - Share my learning process with others who might benefit.
 
 ---
+## Online Courses Studied
+
+- https://www.udemy.com/course/pytorch-for-deep-learning
+- https://www.udemy.com/course/tensorflow-developer-certificate-machine-learning-zero-to-mastery
+- https://www.udemy.com/course/complete-machine-learning-and-data-science-zero-to-mastery
+- https://www.udemy.com/course/credit-risk-modeling-in-python
 
 ## How to Use
 
-Clone the repo, set up your environment (scikit-learn / TensorFlow / PyTorch), and run the notebooks in Jupyter Lab:
+Clone the repo, set up your environment (scikit-learn / TensorFlow / PyTorch), and run the notebooks in Jupyter Lab.
 
